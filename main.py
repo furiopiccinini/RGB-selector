@@ -1,5 +1,5 @@
 # Test app: import a GUI file made with QT Designer and add some logic.
-# The .ui file is imported instead converting it with pyuic5 or
+# The .ui file is imported instead converting it with pyuic5 or PySide
 
 # Import declarations
 from PyQt5 import uic
